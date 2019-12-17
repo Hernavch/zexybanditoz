@@ -1,0 +1,26 @@
+body{
+    background-image: url("images/sparks-of-firecracker-167080.jpg");
+    background-size: auto;
+    background-size: 100%;
+}
+/* .item{
+    background-color: black;
+    size: 200px 200px;
+} */
+.carousel-inner > .item > img {
+    width:1000px;
+    height:450px;
+    border: 0px;
+    margin: auto;
+    text-align: center;
+  }
+.container{
+    background-color: azure;
+
+}
+.menu{
+    background-color:black;
+    padding:20px;
+    border:0px;
+    
+}
