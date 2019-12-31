@@ -8,19 +8,26 @@ body{
     size: 200px 200px;
 } */
 .carousel-inner > .item > img {
-    width:1000px;
+    width: 900px;
     height:450px;
-    border: 0px;
+    border: 10px;
     margin: auto;
     text-align: center;
   }
 .container{
-    background-color: azure;
+    background-color:rgb(219, 216, 216);
+    padding-top: 15px;
+    
 
 }
 .menu{
     background-color:black;
-    padding:40px;
+    padding:10px;
+    margin-bottom: 10px;
     border:0px;
     
+}
+#logo{
+    height: 70px;
+    width: 90px;
 }
