@@ -13,28 +13,31 @@ body{
     height:300px;
     /* size: 100%; */
     /* border: 10px; */
-    text-align: center;
+    text-align: right;
   }
-#mycarosel{
-  /* opacity: initial;  */
-}
 .container{
     /* background-image: url("images/sparks-of-firecracker-167080.jpg"); */
     
    background-size: auto;
     padding-top: 15px;
+    background-blend-mode: hard-light;
     
-    
-
-}
+    }
 .menu{
     background-color:black;
     padding:10px;
     margin-bottom: 10px;
-    position:fixed;
+    /* position:fixed; */
     width: 100%;    
 }
 #logo{
     height: 70px;
     width: 90px;
+}
+#logoTitle{
+    height: 50px;
+    width: 60%;
+    align-self: auto;
+
+
 }
