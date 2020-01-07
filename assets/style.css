@@ -1,8 +1,14 @@
 body{
     background-image: url("images/sparks-of-firecracker-167080.jpg");
     background-size: auto;
+    background-color: black;
     background-size: 100%;
+    /* font-size: 18pt; */
     color:white;
+}
+h1{
+    /* font-size: 25px; */
+    font-stretch: expanded;
 }
 /* .item{
     background-color: black;
@@ -31,13 +37,13 @@ body{
     width: 100%;    
 }
 #logo{
-    height: 70px;
-    width: 90px;
+    height: 75px;
+    width: 100px;
 }
 #logoTitle{
-    height: 50px;
+    height: 50%;
     width: 60%;
-    align-self: auto;
+    text-align: right;
 
 
 }
