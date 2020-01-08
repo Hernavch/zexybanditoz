@@ -47,3 +47,16 @@ h1{
 
 
 }
+
+@media only screen and (max-width: 800px) {
+    body {
+    background-position: center;
+    background-size: auto;
+      background-repeat: no-repeat;
+      background-image: url("./images/Banditoz_Logo.jpg")
+    }
+    #myCarousel {
+        display: grid;
+        
+    }
+  }
